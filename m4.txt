@@ -20,6 +20,8 @@
  android:layout_marginTop="21dp"
  android:text="Open Camera"/>
 </LinearLayout>
+
+
 MainActivity.java
 package com.example.camerasd;
 import androidx.annotation.Nullable;
